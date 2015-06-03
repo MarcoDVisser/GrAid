@@ -1,0 +1,11 @@
+Package: baseGrAid
+Type: Package
+Title: easy functions for base graphic needs
+Version: 0.2.5
+Date: 2015-04-17
+Author: Marco D. Visser
+Maintainer: Marco D. Visser <marco.d.visser@gmail.com>
+Description: 
+License: GPL-2
+URL: http://github.com/MarcoDVisser/baseGrAid
+BugReports: http://github.com/baseGrAid/aprof/issues
